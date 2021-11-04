@@ -38,3 +38,6 @@ Nesse projeto, você será capaz de:
     - [20 - Adicione proptypes a todos os componentes](#20---adicione-proptypes-a-todos-os-componentes)
 
 ---
+## Resultado 
+
+<img src="https://github.com/luanamonero/project-movie-cards-library-stateful/blob/main/Movie.gif" width="70%"/>
